@@ -1,0 +1,8 @@
+Pre-Requisite
+>Python 
+
+How to run
+>Execute run.py file by double clicking
+
+Precaution
+>Dont try to mess with any of the files
