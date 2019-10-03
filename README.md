@@ -1,2 +1,2 @@
 # Python
-All python projects
+All python projects.
